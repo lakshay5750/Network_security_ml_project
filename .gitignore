@@ -1,0 +1,4 @@
+venv
+.env
+security/Lib/site-packages/
+security
