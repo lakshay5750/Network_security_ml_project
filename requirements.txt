@@ -5,4 +5,7 @@ pandas
 ipykernel
 matplotlib
 seaborn
--e .
+pymongo[srv]==3.12
+pymongo
+certifi
+##-e .
